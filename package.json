@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "antd": "^3.26.6",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "parcel-bundler": "^1.12.4",
     "react": "^16.12.0",
